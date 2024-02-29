@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FilmBuddy</string>
+    <string name="search_hint">Search</string>
+    <string name="seasons">Seasons</string>
+    <string name="season">Season</string>
+    <string name="episodes">Episodes</string>
+    <string name="episode">Episode</string>
+    <string name="empty_film">No films added yet.</string>
+    <string name="empty_series">No series added yet.</string>
+    <string name="tap">Tap the + button to add your favorite films.</string>
+    <string name="tap_s">Tap the + button to add your favorite series.</string>
+    <string name="film">Films</string>
+    <string name="series">Series</string>
+    <string name="login">Log in</string>
+    <string name="login_success">Logged in successfully.</string>
+    <string name="dont">Don\'t have an account? Sign up</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="registration_failed">Registration failed.</string>
+    <string name="register">Register</string>
+    <string name="delete_confirmation">Delete Confirmation</string>
+    <string name="sure_delete">Are you sure you want to delete this item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>

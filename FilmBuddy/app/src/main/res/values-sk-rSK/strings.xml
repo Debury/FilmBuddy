@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FilmBuddy</string>
+    <string name="search_hint">Vyhladať</string>
+    <string name="default_web_client_id" translatable="false">S</string>
+    <string name="seasons">Sezóny</string>
+    <string name="season">Sezóna</string>
+    <string name="episodes">Epizódy</string>
+    <string name="episode">Epizóda</string>
+    <string name="empty_film">Neboli pridané žiadne filmy.</string>
+    <string name="empty_series">Neboli pridané žiadne seriály.</string>
+    <string name="tap">Klikni na + na pridanie tvojich obľúbených filmov.</string>
+    <string name="tap_s">Klikni na + na pridanie tvojich obľúbených seriálov.</string>
+    <string name="film">Filmy</string>
+    <string name="series">Seriály</string>
+    <string name="login">Prihlásiť</string>
+    <string name="login_success">Úspešne prihlásený.</string>
+    <string name="dont">Nemáš ešte účet? Registruj sa</string>
+    <string name="email">Email</string>
+    <string name="username">Prezývka</string>
+    <string name="password">Heslo</string>
+    <string name="registration_failed">Registrácia zlyhala.</string>
+    <string name="register">Registrovať</string>
+    <string name="delete_confirmation">Potvrdenie odstránenia</string>
+    <string name="sure_delete">Ste si istý že chcete odstrániť túto položku ?</string>
+    <string name="delete">Odstrániť</string>
+    <string name="cancel">Zrušiť</string>
+</resources>
